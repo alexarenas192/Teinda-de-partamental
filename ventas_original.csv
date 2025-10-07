@@ -1,0 +1,51 @@
+id_venta,id_cliente,nombre_cliente,genero,edad,ciudad,id_producto,nombre_producto,categoria,marca,precio_unitario,cantidad,fecha,sucursal
+V001,C004,Carlos Ruiz,M,31.0,CDMX,P003,Tenis,Calzado,Nike,1499.99,1,06/02/2024,Puebla
+V002,C002,Luis Pérez,M,35.0,Monterrey,P004,Perfume,Accesorios,Hugo Boss,1299.0,3,27/07/2024,Guadalajara
+V003,C005,laura gómez,F,25.0,Puebla,P003,Tenis,Calzado,Nike,1499.99,3,12/10/2024,Puebla
+V004,C004,Carlos Ruiz,M,31.0,CDMX,P006,Celular,Electrónica,Samsung,12500.0,5,26/07/2024,Puebla
+V005,C001,Ana Torres,F,28.0,CDMX,P006,Celular,Electrónica,Samsung,12500.0,2,13/07/2024,CDMX
+V006,C001,Ana Torres,F,28.0,CDMX,P002,Pantalón,Ropa,Levis,899.5,2,10/07/2024,Monterrey
+V007,C002,luis pérez,M,35.0,Monterrey,P003,Tenis,Calzado,Nike,1499.99,2,22/01/2024,Monterrey
+V008,C001,Ana Torres,F,28.0,CDMX,P005,Laptop,Electrónica,HP,15999.0,1,03/10/2024,CDMX
+V009,C001,Ana Torres,F,28.0,CDMX,P002,Pantalón,Ropa,Levis,899.5,4,17/02/2024,CDMX
+V010,C003,María López,F,42.0,Guadalajara,P002,Pantalón,Ropa,Levis,899.5,2,04/03/2024,CDMX
+V011,C005,Laura Gómez,F,25.0,Puebla,P003,Tenis,Calzado,Nike,1499.99,1,22/06/2024,Puebla
+V012,C003,María López,F,42.0,Guadalajara,P003,Tenis,Calzado,Nike,1499.99,3,05/06/2024,Guadalajara
+V013,C005,Laura Gómez,F,25.0,Puebla,P004,Perfume,Accesorios,Hugo Boss,1299.0,4,10/07/2024,Puebla
+V014,C003,María López,F,42.0,Guadalajara,P001,Camisa,Ropa,Zara,499.9,2,04/01/2024,Guadalajara
+V015,C002,Luis Pérez,M,35.0,Monterrey,P003,Tenis,Calzado,Nike,1499.99,2,10/07/2024,CDMX
+V016,C004,Carlos Ruiz,M,31.0,CDMX,P006,Celular,Electrónica,Samsung,12500.0,3,21/06/2024,Monterrey
+V017,C003,María López,F,42.0,Guadalajara,P006,Celular,Electrónica,Samsung,12500.0,2,27/03/2024,CDMX
+V018,C005,Laura Gómez,F,25.0,Puebla,P006,Celular,Electrónica,Samsung,12500.0,5,06/04/2024,CDMX
+V019,C003,María López,F,,Guadalajara,P002,Pantalón,Ropa,Levis,899.5,3,04/09/2024,Guadalajara
+V020,C001,Ana Torres,F,28.0,CDMX,P005,Laptop,Electrónica,HP,15999.0,2,28/05/2024,Puebla
+V021,C004,Carlos Ruiz,M,31.0,CDMX,P002,Pantalón,Ropa,Levis,899.5,1,03/02/2024,Guadalajara
+V022,C001,Ana Torres,F,28.0,CDMX,P006,Celular,Electrónica,Samsung,12500.0,2,27/02/2024,Monterrey
+V023,C004,Carlos Ruiz,M,,CDMX,P004,Perfume,Accesorios,Hugo Boss,1299.0,4,02/04/2024,Puebla
+V024,C005,Laura Gómez,F,25.0,Puebla,P001,Camisa,Ropa,Zara,499.9,4,23/03/2024,CDMX
+V025,C001,Ana Torres,F,28.0,CDMX,P003,Tenis,Calzado,Nike,1499.99,2,13/01/2024,Guadalajara
+V026,C003,María López,F,42.0,Guadalajara,P003,Tenis,Calzado,Nike,1499.99,3,26/01/2024,Puebla
+V027,C003,María López,F,42.0,Guadalajara,P003,Tenis,Calzado,Nike,1499.99,4,13/09/2024,Guadalajara
+V028,C001,Ana Torres,F,,CDMX,P002,Pantalón,Ropa,Levis,899.5,1,12/06/2024,Guadalajara
+V029,C003,María López,F,42.0,Guadalajara,P005,Laptop,Electrónica,HP,15999.0,1,11/09/2024,CDMX
+V030,C002,Luis Pérez,M,35.0,Monterrey,P004,Perfume,Accesorios,Hugo Boss,1299.0,2,13/04/2024,CDMX
+V031,C004,Carlos Ruiz,M,31.0,CDMX,P006,Celular,Electrónica,Samsung,12500.0,3,05/02/2024,CDMX
+V032,C002,Luis Pérez,M,35.0,C.D.M.X,P001,Camisa,Ropa,Zara,499.9,5,11/02/2024,Monterrey
+V033,C002,luis pérez,M,35.0,Monterrey,P006,Celular,Electrónica,Samsung,12500.0,2,12/01/2024,Monterrey
+V034,C002,Luis Pérez,M,35.0,Monterrey,P004,Perfume,Accesorios,Hugo Boss,1299.0,4,26/07/2024,Monterrey
+V035,C001,Ana Torres,F,28.0,C.D.M.X,P003,Tenis,Calzado,Nike,1499.99,2,05/06/2024,Puebla
+V036,C003,María López,F,42.0,Guadalajara,P001,Camisa,Ropa,Zara,499.9,2,19/07/2024,Monterrey
+V037,C003,María López,F,42.0,Guadalajara,P004,Perfume,Accesorios,Hugo Boss,1299.0,4,10/02/2024,Guadalajara
+V038,C001,Ana Torres,F,,CDMX,P001,Camisa,Ropa,Zara,499.9,4,13/08/2024,Monterrey
+V039,C005,Laura Gómez,F,25.0,Puebla,P004,Perfume,Accesorios,Hugo Boss,1299.0,2,06/10/2024,Monterrey
+V040,C004,Carlos Ruiz,M,31.0,CDMX,P004,Perfume,Accesorios,Hugo Boss,1299.0,4,29/01/2024,Monterrey
+V041,C001,Ana Torres,F,28.0,CDMX,P004,Perfume,Accesorios,Hugo Boss,1299.0,5,01/09/2024,CDMX
+V042,C004,Carlos Ruiz,M,31.0,CDMX,P006,Celular,Electrónica,Samsung,12500.0,5,02/08/2024,Guadalajara
+V043,C001,ana torres,F,28.0,CDMX,P005,Laptop,Electrónica,HP,15999.0,2,25/05/2024,Guadalajara
+V044,C002,Luis Pérez,M,35.0,Monterrey,P002,Pantalón,Ropa,Levis,899.5,2,08/09/2024,Guadalajara
+V045,C001,Ana Torres,F,28.0,CDMX,P005,Laptop,Electrónica,HP,15999.0,3,13/04/2024,Monterrey
+V046,C003,María López,F,42.0,Guadalajara,P004,Perfume,Accesorios,Hugo Boss,1299.0,4,29/04/2024,Puebla
+V047,C003,María López,F,42.0,Guadalajara,P006,Celular,Electrónica,Samsung,12500.0,5,12/04/2024,Guadalajara
+V048,C003,María López,F,42.0,Guadalajara,P005,Laptop,Electrónica,HP,15999.0,1,07/01/2024,Puebla
+V049,C002,Luis Pérez,M,35.0,Monterrey,P003,Tenis,Calzado,Nike,1499.99,3,23/06/2024,Monterrey
+V050,C003,María López,F,42.0,Guadalajara,P001,Camisa,Ropa,Zara,499.9,4,19/06/2024,Puebla
